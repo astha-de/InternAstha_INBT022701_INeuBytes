@@ -3,7 +3,7 @@
 ## Intern Details
 
 **Name:** Astha Maurya  
-**Registration Number:** YOUR_INBT022701_NUMBER  
+**Registration Number:** INBT022701 
 **Course ID:** WBINB10726  
 **Domain:** Web Development  
 
