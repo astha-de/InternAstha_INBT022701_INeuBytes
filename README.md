@@ -1,38 +1,77 @@
-# iNeuBytes Internship Projects
+# iNeuBytes Internship
 
-## Intern Details
-
-**Name:** Astha Maurya  
-**Registration Number:** INBT022701 
+**Intern Name:** Astha  
+**Registration Number:** INBT022701  
 **Course ID:** WBINB10726  
-**Domain:** Web Development  
+**Domain:** Web Development
 
-## Tasks
+## Projects
+
+This repository contains the projects completed during the iNeuBytes Web Development Internship.
 
 ### Task 1 – Healthcare / Clinic Landing Page
 
-A responsive healthcare and clinic landing page developed using HTML, CSS, and JavaScript.
+A responsive healthcare and clinic landing page with:
 
-Features include:
-- Responsive homepage
-- Navigation bar
-- About Clinic section
+- Hero Section with CTA
+- Navigation Bar
+- About Clinic
 - Medical Services
 - Why Choose Us
 - Doctor Highlights
-- Patient Testimonials
-- Appointment Enquiry Form
-- Form Validation
+- Testimonials
 - Contact Information
 - Google Maps Integration
-- Smooth Scrolling
-- Responsive Navigation
-- Hover Effects and Animations
+- Appointment Enquiry Form
 
 ### Task 2 – Doctor Appointment Booking System
 
-To be added.
+A responsive doctor appointment booking system with:
 
-### Major Project
+- Home Page
+- Doctor Listing
+- Doctor Details
+- Doctor Search
+- Department Filtering
+- Appointment Booking
+- Appointment Summary
+- Form Validation
 
-To be added.
+### Major Project – Healthcare / Clinic Management System
+
+A complete healthcare management system with separate modules for:
+
+- Patients
+- Doctors
+- Administrators
+
+Main features include:
+
+- Secure Authentication
+- Appointment Booking
+- Patient Management
+- Doctor Management
+- Department Management
+- CRUD Operations
+- Database Integration
+- Responsive Design
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- EJS
+
+## Repository Structure
+
+```text
+├── Task 1/
+├── Task 2/
+├── Major-Project/
+├── Checklist.md
+└── README.md
